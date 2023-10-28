@@ -31,7 +31,7 @@
 |[Reachability And Distance Queries Via 2-hop Labels](https://dl.acm.org/doi/10.5555/545381.545503)|SIAM Journal on Computing 2002|
 |[Fast Exact Shortest-path Distance Queries On Large Networks By Pruned Landmark Labeling](https://dl.acm.org/doi/10.1145/2463676.2465315)|SIGMOD 2013|
 |[IS-LABEL: An Independent-Set based Labeling Scheme for Point-to-Point Distance Querying](https://dl.acm.org/doi/10.14778/2536336.2536346)|VLDB 2013|
-|[Hop Doubling Label Indexing for Point-to-Point Distance Querying](https://dl.acm.org/doi/10.14778/2732977.2732993)|VLDB 2014|
+|[Hop Doubling Label Indexing for Point-to-Point Distance Querying](https://arxiv.org/pdf/1403.0779.pdf)|VLDB 2014|
 |[An Experimental Study on Hub Labeling based Shortest Path Algorithms](http://www.vldb.org/pvldb/vol11/p445-li.pdf)|VLDB 2017|
 |[When Hierarchy Meets 2-Hop-Labeling: Efficient Shortest Distance Queries on Road Networks](https://dl.acm.org/doi/10.1145/3183713.3196913)| SIGMOD 2018|
 |[Scaling Distance Labeling on Small-World Networks](https://opus.lib.uts.edu.au/bitstream/10453/135233/4/Scaling%20Distance%20Labeling%20on%20Small-World%20Networks.pdf)|SIGMOD 2019|
