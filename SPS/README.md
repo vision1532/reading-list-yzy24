@@ -41,3 +41,4 @@
 |[Shortest path and distance queries on road networks: towards bridging theory and practice](https://dl.acm.org/doi/10.1145/2463676.2465277)|SIGMOD 2013|
 |[Contraction Hierarchies: Faster and SimplerHierarchical Routing in Road Networks](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=453e6c598a903e479074d3b2c17610446749a9d7)||Contraction Hierarchies|
 |[A Hub-Based Labeling Algorithm forShortest Paths on Road Networks](https://www.microsoft.com/en-us/research/wp-content/uploads/2010/12/HL-TR.pdf)||Hub Labeling|
+|[Reachability and distance queries via 2-hop labels](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=aa521d8f4a0c66675f89024cf956be75a304e87a)|SIAM Journal of Computing|2-hop labeling|
