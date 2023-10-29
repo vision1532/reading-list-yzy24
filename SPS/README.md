@@ -39,6 +39,5 @@
 |[Hub Labeling for Shortest Path Counting](https://dl.acm.org/doi/10.1145/3318464.3389737)|SIGMOD 2020|
 |[Hop doubling label indexing for point-to-point distance querying on scale-free networks](https://dl.acm.org/doi/10.14778/2732977.2732993)| VLDB 2014|
 |[Shortest path and distance queries on road networks: towards bridging theory and practice](https://dl.acm.org/doi/10.1145/2463676.2465277)|SIGMOD 2013|
-|[Contraction Hierarchies: Faster and Simpler
-Hierarchical Routing in Road Networks](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=453e6c598a903e479074d3b2c17610446749a9d7)||Contraction Hierarchies
+|[Contraction Hierarchies: Faster and SimplerHierarchical Routing in Road Networks](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=453e6c598a903e479074d3b2c17610446749a9d7)||Contraction Hierarchies|
 
