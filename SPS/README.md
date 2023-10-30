@@ -29,7 +29,7 @@
 |[A Learning-based Method for Computing Shortest Path Distances on Road Networks](https://ieeexplore.ieee.org/document/9458665/)|ICDE 2021|
 |[Efficient Constrained Shortest Path Query Answering with Forest Hop Labeling](https://www.computer.org/csdl/proceedings-article/icde/2021/918400b763/1uGXDZ8XES4)|ICDE 2021|
 |[Reachability And Distance Queries Via 2-hop Labels](https://dl.acm.org/doi/10.5555/545381.545503)|SIAM Journal on Computing 2002|
-|[Fast Exact Shortest-path Distance Queries On Large Networks By Pruned Landmark Labeling](https://dl.acm.org/doi/10.1145/2463676.2465315)|SIGMOD 2013|PLL|
+|[Fast Exact Shortest-path Distance Queries On Large Networks By Pruned Landmark Labeling](https://arxiv.org/pdf/1304.4661.pdf)|SIGMOD 2013|PLL|
 |[IS-LABEL: An Independent-Set based Labeling Scheme for Point-to-Point Distance Querying](https://dl.acm.org/doi/10.14778/2536336.2536346)|VLDB 2013|
 |[Hop Doubling Label Indexing for Point-to-Point Distance Querying](https://dl.acm.org/doi/10.14778/2732977.2732993)|VLDB 2014|
 |[An Experimental Study on Hub Labeling based Shortest Path Algorithms](http://www.vldb.org/pvldb/vol11/p445-li.pdf)|VLDB 2017|
