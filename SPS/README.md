@@ -43,3 +43,4 @@
 |[A Hub-Based Labeling Algorithm for Shortest Paths on Road Networks](https://www.microsoft.com/en-us/research/wp-content/uploads/2010/12/HL-TR.pdf)||Hub Labeling|
 |[Reachability and distance queries via 2-hop labels](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=aa521d8f4a0c66675f89024cf956be75a304e87a)|SODA|2-hop labeling|
 |[Hierarchical hub labelings for shortest paths](https://www.researchgate.net/profile/Ittai-Abraham-2/publication/255564149_Hierarchical_Hub_Labelings_for_Shortest_Paths/links/0c96053c663a3e330b000000/Hierarchical-Hub-Labelings-for-Shortest-Paths.pdf)|ESA 2012||
+|[A highway-centric labeling approach for answering distance queries on large sparse graphs.]()|SIGMOD 2012||
