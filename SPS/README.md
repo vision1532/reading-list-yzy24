@@ -43,3 +43,4 @@
 |[Hierarchical hub labelings for shortest paths](https://www.researchgate.net/profile/Ittai-Abraham-2/publication/255564149_Hierarchical_Hub_Labelings_for_Shortest_Paths/links/0c96053c663a3e330b000000/Hierarchical-Hub-Labelings-for-Shortest-Paths.pdf)|ESA 2012|hierarchical hub labeling|
 |[A highway-centric labeling approach for answering distance queries on large sparse graphs.](https://www.cs.kent.edu/~nruan/paper/HCL.pdf)|SIGMOD 2012|highway-centric labeling|
 |[Fast Exact Shortest-path Distance Queries On Large Networks By Pruned Landmark Labeling](https://arxiv.org/pdf/1304.4661.pdf)|SIGMOD 2013|PLL|
+|[Fast shortest path distance estimation in large networks](https://chato.cl/papers/potamias_2009_fast_shortest_path.pdf)|CIKM 2009| landmark-based approximate methods|
