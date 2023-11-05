@@ -34,12 +34,12 @@
 |[When Hierarchy Meets 2-Hop-Labeling: Efficient Shortest Distance Queries on Road Networks](https://dl.acm.org/doi/10.1145/3183713.3196913)| SIGMOD 2018|
 |[Scaling Distance Labeling on Small-World Networks](https://opus.lib.uts.edu.au/bitstream/10453/135233/4/Scaling%20Distance%20Labeling%20on%20Small-World%20Networks.pdf)|SIGMOD 2019|
 |[Efficient shortest path index maintenance on dynamic road networks with theoretical guarantees](https://dl.acm.org/doi/abs/10.14778/3377369.3377371#)|VLDB 2020|
-|[Hub Labeling for Shortest Path Counting](https://dl.acm.org/doi/10.1145/3318464.3389737)|SIGMOD 2020|
 |[Hop doubling label indexing for point-to-point distance querying on scale-free networks](https://dl.acm.org/doi/10.14778/2732977.2732993)| VLDB 2014|
 |[Shortest path and distance queries on road networks: towards bridging theory and practice](https://dl.acm.org/doi/10.1145/2463676.2465277)|SIGMOD 2013|
 |[Contraction Hierarchies: Faster and SimplerHierarchical Routing in Road Networks](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=453e6c598a903e479074d3b2c17610446749a9d7)||CH|
 |[Reachability and distance queries via 2-hop labels](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=aa521d8f4a0c66675f89024cf956be75a304e87a)|SODA|2-hop labeling|
 |[A Hub-Based Labeling Algorithm for Shortest Paths on Road Networks](https://www.microsoft.com/en-us/research/wp-content/uploads/2010/12/HL-TR.pdf)||hub labeling|
+|[Hub Labeling for Shortest Path Counting](https://dl.acm.org/doi/10.1145/3318464.3389737)|SIGMOD 2020|hub labling|
 |[Hierarchical hub labelings for shortest paths](https://www.researchgate.net/profile/Ittai-Abraham-2/publication/255564149_Hierarchical_Hub_Labelings_for_Shortest_Paths/links/0c96053c663a3e330b000000/Hierarchical-Hub-Labelings-for-Shortest-Paths.pdf)|ESA 2012|hierarchical hub labeling|
 |[A highway-centric labeling approach for answering distance queries on large sparse graphs.](https://www.cs.kent.edu/~nruan/paper/HCL.pdf)|SIGMOD 2012|highway-centric labeling|
 |[Fast Exact Shortest-path Distance Queries On Large Networks By Pruned Landmark Labeling](https://arxiv.org/pdf/1304.4661.pdf)|SIGMOD 2013|PLL|
