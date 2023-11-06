@@ -13,7 +13,6 @@
 |[Efficient Shortest Path Counting on Large Road Networks](https://www.vldb.org/pvldb/vol15/p2098-qiu.pdf)|VLDB 2022|
 |[Shortest-Path Queries on Complex Networks: Experiments, Analyses, and Improvement](https://www.vldb.org/pvldb/vol15/p2640-li.pdf)|VLDB 2021|
 |[Efficient Shortest Path Index Maintenance on Dynamic Road Networks with Theoretical Guarantees](http://www.vldb.org/pvldb/vol13/p602-ouyang.pdf)|VLDB 2021|
-|[An Experimental Study on Hub Labeling based Shortest Path Algorithms](http://www.vldb.org/pvldb/vol11/p445-li.pdf)|VLDB 2021|
 |[Effective Indexing for Approximate Constrained Shortest Path Queries on Large Road Networks](http://www.vldb.org/pvldb/vol10/p61-wang.pdf)|VLDB 2021|
 |[The shortest path is not always a straight line](https://dl.acm.org/doi/10.14778/2947618.2947623)|VLDB 2021|
 |[Relational Approach for Shortest Path Discovery over Large Graphs](http://vldb.org/pvldb/vol5/p358_jungao_vldb2012.pdf)|VLDB 2021|
@@ -39,7 +38,7 @@
 |[Reachability and distance queries via 2-hop labels](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=aa521d8f4a0c66675f89024cf956be75a304e87a)|SIAM Journal on Computing 2003|2-hop labeling|
 |[A Hub-Based Labeling Algorithm for Shortest Paths on Road Networks](https://www.microsoft.com/en-us/research/wp-content/uploads/2010/12/HL-TR.pdf)||hub labeling|
 |[Hub Labeling for Shortest Path Counting](https://dl.acm.org/doi/10.1145/3318464.3389737)|SIGMOD 2020|hub labeling|
-|[An Experimental Study on Hub Labeling based Shortest Path Algorithms](http://www.vldb.org/pvldb/vol11/p445-li.pdf)|VLDB 2017|experimental study  on hub labeling
+|[An Experimental Study on Hub Labeling based Shortest Path Algorithms](http://www.vldb.org/pvldb/vol11/p445-li.pdf)|VLDB 2017|experimental study  on hub labeling|
 |[Hierarchical hub labelings for shortest paths](https://www.researchgate.net/profile/Ittai-Abraham-2/publication/255564149_Hierarchical_Hub_Labelings_for_Shortest_Paths/links/0c96053c663a3e330b000000/Hierarchical-Hub-Labelings-for-Shortest-Paths.pdf)|ESA 2012|hierarchical hub labeling|
 |[A highway-centric labeling approach for answering distance queries on large sparse graphs.](https://www.cs.kent.edu/~nruan/paper/HCL.pdf)|SIGMOD 2012|highway-centric labeling|
 |[Fast Exact Shortest-path Distance Queries On Large Networks By Pruned Landmark Labeling](https://arxiv.org/pdf/1304.4661.pdf)|SIGMOD 2013|PLL|
