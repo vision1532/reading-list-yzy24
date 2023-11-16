@@ -25,7 +25,6 @@
 |[PSPC: Efficient Parallel Shortest Path Counting on Large-Scale Graph](https://ieeexplore.ieee.org/iel7/10184508/10184509/10184881.pdf)|ICDE 2023|
 |[Towards Efficient Shortest Path Counting on Billion-Scale Graphs](https://ieeexplore.ieee.org/document/10184857/)|ICDE 2023|
 |[Workload-Aware Shortest Path Distance Querying in Road Networks](https://ieeexplore.ieee.org/document/9835596/)|ICDE 2022|
-|[A Learning-based Method for Computing Shortest Path Distances on Road Networks](https://ieeexplore.ieee.org/document/9458665/)|ICDE 2021|
 |[Efficient Constrained Shortest Path Query Answering with Forest Hop Labeling](https://www.computer.org/csdl/proceedings-article/icde/2021/918400b763/1uGXDZ8XES4)|ICDE 2021|
 |[IS-LABEL: An Independent-Set based Labeling Scheme for Point-to-Point Distance Querying](https://dl.acm.org/doi/10.14778/2536336.2536346)|VLDB 2013|
 |[Hop Doubling Label Indexing for Point-to-Point Distance Querying](https://dl.acm.org/doi/10.14778/2732977.2732993)|VLDB 2014|
@@ -45,4 +44,4 @@
 |[Fast Exact Shortest-path Distance Queries On Large Networks By Pruned Landmark Labeling](https://arxiv.org/pdf/1304.4661.pdf)|SIGMOD 2013|PLL|
 |[Fast shortest path distance estimation in large networks](https://chato.cl/papers/potamias_2009_fast_shortest_path.pdf)|CIKM 2009| landmark-based approximate methods|
 |[A Learning Based Approach to Predict Shortest-Path Distances](https://openproceedings.org/2020/conf/edbt/paper_215.pdf)|EDBT 2020||
-|[A Learning-based Method for Computing Shortest Path Distances](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/shortestpath_icde2021.pdf)|ICDE 2021||
+|[A Learning-based Method for Computing Shortest Path Distances](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/shortestpath_icde2021.pdf)|ICDE 2021|RNE,[csdn](https://blog.csdn.net/zj_18706809267/article/details/125926713)|
