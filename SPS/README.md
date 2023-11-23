@@ -42,6 +42,7 @@
 |[A highway-centric labeling approach for answering distance queries on large sparse graphs.](https://www.cs.kent.edu/~nruan/paper/HCL.pdf)|SIGMOD 2012|highway-centric labeling|
 |[Approximate shortest distance computing: A query-dependent local landmark scheme](https://www1.se.cuhk.edu.hk/~hcheng/paper/ICDE12_conf_full_262.pdf)|TKDE 2012||
 |[Fast Exact Shortest-path Distance Queries On Large Networks By Pruned Landmark Labeling](https://arxiv.org/pdf/1304.4661.pdf)|SIGMOD 2013|PLL|
+|[Efficient Top-k Shortest-Path Distance Queries on Large Networks by Pruned Landmark Labeling]|AAAI 2015|top-k PLL|
 |[Fast shortest path distance estimation in large networks](https://chato.cl/papers/potamias_2009_fast_shortest_path.pdf)|CIKM 2009| landmark-based approximate methods|
 |[A Learning Based Approach to Predict Shortest-Path Distances](https://openproceedings.org/2020/conf/edbt/paper_215.pdf)|EDBT 2020|onehot+embedding+MLP|
 |[A Learning-based Method for Computing Shortest Path Distances](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/shortestpath_icde2021.pdf)|ICDE 2021|RNE,[csdn](https://blog.csdn.net/zj_18706809267/article/details/125926713)|
