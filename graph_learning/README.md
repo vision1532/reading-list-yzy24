@@ -1,6 +1,7 @@
 ## Large-scale Graph Representation Learning
 | Paper | Conference | Remark |
 | :---:| :---:| :---:|
+|[Transformer for Graphs: An Overview from Architecture Perspective](https://arxiv.org/pdf/2202.08455.pdf)||Transformer for Homogeneous Graph|
 |[PGLBox: Multi-GPU Graph Learning Framework for Web-Scale Recommendation](https://xhyccc.github.io/pglbox.pdf)|KDD 2023|[code](https://github.com/PaddlePaddle/PGL/tree/main/apps/PGLBox)|
 |[Large-scale graph representation learning with very deep GNNs and self-supervision](https://arxiv.org/pdf/2107.09422.pdf)|KDDCup 2021|[code](https://github.com/google-deepmind/deepmind-research/tree/master/ogb_lsc)|
 |[Large-Scale Representation Learning on Graphs via Bootstrapping](https://arxiv.org/pdf/2102.06514.pdf)|ICLR 2022|[code](https://github.com/nerdslab/bgrl)|
